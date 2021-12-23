@@ -9,8 +9,8 @@
 
 .wrapper-content {
     display: flex;
-    justify-content: space-between;
-    width: 1000px;
+    /*justify-content: space-between;*/
+    width: 1200px;
 }
 
 form {
@@ -34,6 +34,8 @@ input:first-child {
 .wrapper-inputsWithButtons {
     width: 270px;
     background-color: white;
+    margin-left: 135px;
+    /*display: none;*/
 
 }
 
@@ -44,19 +46,26 @@ input:first-child {
     margin: 10px 0;
 }
 
-
-
-
-
 button {
     width: 70px;
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-    border: 1px solid grey;
+.buttonCreate {
+    margin-left: 896px;
 }
+
+
+
+table {
+    width: 113%;
+    border-collapse: collapse;
+    /*border: 1px solid grey;*/
+}
+
+.table-data {
+    width: 856px;
+}
+
 
 th {
     min-width: 100px;
@@ -71,12 +80,22 @@ th:first-child {
     min-width: 20px;
 }
 
+strong {
+    font-size: 11px;
+    margin-bottom: 13px;
+}
+
+
+
 span {
     font-size: 10px;
     margin: 0 0 -5px 0;
 }
 
-
+td {
+    border: 1px solid white;
+    border-radius: 5px;
+}
 
 
 
