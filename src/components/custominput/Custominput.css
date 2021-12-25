@@ -1,0 +1,14 @@
+
+
+input {
+    padding: 5px;
+    margin: 5px 0;
+    border: white;
+    background-color: #ddd8d8;
+    border-radius: 5px;
+}
+
+input:first-child {
+    margin: 0 0 5px;
+}
+

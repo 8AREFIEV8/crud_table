@@ -1,0 +1,16 @@
+
+
+
+button {
+    width: 70px;
+    /*margin-left: 61px;*/
+    background: #3475b9;
+    border-radius: 5px;
+    height: 27px;
+
+}
+
+
+.buttons-wrapper > button {
+    margin-left: 61px;
+}

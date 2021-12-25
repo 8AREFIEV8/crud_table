@@ -20,17 +20,6 @@ form {
 
 }
 
-input {
-    padding: 5px;
-    margin: 5px 0;
-    border: white;
-    background-color: #ddd8d8;
-    border-radius: 5px;
-}
-
-input:first-child {
-    margin: 0 0 5px;
-}
 .wrapper-inputsWithButtons {
     width: 270px;
     background-color: white;
@@ -46,9 +35,6 @@ input:first-child {
     margin: 10px 0;
 }
 
-button {
-    width: 70px;
-}
 
 .buttonCreate {
     margin-left: 896px;
@@ -56,29 +42,11 @@ button {
 
 
 
-table {
-    width: 113%;
-    border-collapse: collapse;
-    /*border: 1px solid grey;*/
-}
-
 .table-data {
     width: 856px;
 }
 
 
-th {
-    min-width: 100px;
-    border: 1px solid grey;
-    text-align: left;
-    padding: 5px;
-    background-color: white;
-    color: #bfbbbb;
-}
-
-th:first-child {
-    min-width: 20px;
-}
 
 strong {
     font-size: 11px;
@@ -92,10 +60,6 @@ span {
     margin: 0 0 -5px 0;
 }
 
-td {
-    border: 1px solid white;
-    border-radius: 5px;
-}
 
 
 
